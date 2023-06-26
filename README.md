@@ -13,3 +13,5 @@ You can create migration to postgers or e.t.c for example:
 2) You can create ur own game using .../api/Games/create
 3) If u want to join some game u need to use .../api/Games/join?gameId={GameId}.
 4) After this u can use .../api/Games/move?gameId={GameId} with move body.
+
+P.S Use swagger doc to get request and responce info.
